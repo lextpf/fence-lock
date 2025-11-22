@@ -1,5 +1,5 @@
 # **FenceLock AES-256-GCM Console Utility** 🔐
-
+test
 **FenceLock** is a robust **AES-256-GCM Encryption/Decryption** console utility, designed to **securely handle files and inline text**. With state-of-the-art memory protection mechanisms, it ensures that sensitive data is **locked, scrubbed, and shielded** from unauthorized access, making it an essential tool for anyone prioritizing security.
 
 ## **🛠️ Features**
@@ -22,5 +22,6 @@
 Before using the utility, ensure you have the following installed:
 
 * **OpenSSL 3.x**: Required to build and operate **FenceLock**. Please install OpenSSL version 3.x on your system.
+
 
 
